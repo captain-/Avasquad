@@ -5,7 +5,7 @@ distribution dev
 model-path ../resources
 
 # Server:
-server-version fellowship-dev
+server-version fellowship-avasquad
 min-access-level 600
 accountdb-type developer
 shard-low-pop 50
@@ -26,7 +26,7 @@ want-cogdominiums #f
 want-achievements #f
 
 # Chat:
-want-whitelist #t
+want-whitelist #f
 
 # Cashbot boss:
 want-resistance-toonup #t
